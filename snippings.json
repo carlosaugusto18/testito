@@ -1,10 +1,17 @@
-config: {
-	compliments: {
-		"....-05-28": [
-			"Prueba1!"
-		],
-		"....-05-29": [
-			"Prueba2"
-		]
-	}
+{
+  "....-05-28": [
+    "Prueba1",
+    "Prueba2",
+    "Prueba3"
+  ],
+  "....-05-29": [
+    "Prueba4",
+    "Prueba5",
+    "Prueba6"
+  ],
+  "....-05-30": [
+    "Prueba7",
+    "Prueba8",
+    "Prueba9"
+  ]
 }
