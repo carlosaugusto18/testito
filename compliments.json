@@ -1,7 +1,20 @@
 {
-  "....-06-24": [
-    "El amor por la autoridad de Dios y el respeto a sus normas",
-    "Orar con sinceridad a Jehová es una de las mayores",
-    "Es lógico que nos preguntemos muchas cosas sobre la vida"
-  ]
-}
+		"....-06-23": [
+			"Good morning, handsome!",
+			"Enjoy your day!",
+			"How was your sleep?"
+		],
+		"....-06-24": [
+			"Hello GOO, beauty!",
+			"You GOO look sexy!",
+			"Looking GOO good today!"
+		],
+		evening: [
+			"Wow, you look hot!",
+			"You look nice!",
+			"Hi, sexy!"
+		],
+		"....-01-01": [
+			"Happy new year!"
+		]
+	}
